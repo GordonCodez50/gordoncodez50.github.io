@@ -1,4 +1,4 @@
-# Gordon's Portfolio
+# Gordon's Portfolio (#Replaced & Updated (Private Repo) - gordongedacheril.me)
 
 ## Description
 This is the personal portfolio website of Gordon, a student passionate about technology, coding, web design, 3D animation, and graphic design. Currently studying in 11th Grade at the Indian School Bahrain, Gordon is pursuing his dream of becoming a leading computer science engineer.
